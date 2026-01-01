@@ -4,7 +4,7 @@ Global $DLCList[][] = [ _
     ["EP03", "City Living",                         "https://huggingface.co/datasets/aenimaaa/EP03/resolve/main/Sims4_DLC_EP03_City_Living.zip", ""], _
     ["EP04", "Cats and Dogs",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP04/Sims4_DLC_EP04_Cats_and_Dogs.zip", ""], _
     ["EP05", "Seasons",                             "https://github.com/l1ntol/lunia-dlc/releases/download/EP05/Sims4_DLC_EP05_Seasons.zip", ""], _
-    ["EP06", "Get Famous",                          "", "https://github.com/l1ntol/lunia-dlc/releases/download/EP06/Sims4_DLC_EP06_Get_Famous.7z.001|https://github.com/l1ntol/lunia-dlc/releases/download/EP06/Sims4_DLC_EP06_Get_Famous.7z.002"], _
+    ["EP06", "Get Famous",                          "https://huggingface.co/datasets/aenimaaa/EP06/resolve/main/Sims4_DLC_EP06_Get_Famous.zip", ""], _
     ["EP07", "Island Living",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP07/Sims4_DLC_EP07_Island_Living.zip", ""], _
     ["EP08", "Discover University",                 "https://github.com/l1ntol/lunia-dlc/releases/download/EP08/Sims4_DLC_EP08_Discover_University.zip", ""], _
     ["EP09", "Eco Lifestyle",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP09/Sims4_DLC_EP09_Eco_Lifestyle.zip", ""], _
