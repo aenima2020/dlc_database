@@ -2,23 +2,23 @@ Global $DLCList[][] = [ _
     ["EP01", "Get to Work",                         "https://huggingface.co/datasets/aenimaaa/EP01/resolve/main/Sims4_DLC_EP01_Get_to_Work.zip", ""], _
     ["EP02", "Get Together",                        "https://huggingface.co/datasets/aenimaaa/EP02/resolve/main/Sims4_DLC_EP02_Get_Together.zip", ""], _
     ["EP03", "City Living",                         "https://huggingface.co/datasets/aenimaaa/EP03/resolve/main/Sims4_DLC_EP03_City_Living.zip", ""], _
-    ["EP04", "Cats and Dogs",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP04/Sims4_DLC_EP04_Cats_and_Dogs.zip", ""], _
-    ["EP05", "Seasons",                             "https://github.com/l1ntol/lunia-dlc/releases/download/EP05/Sims4_DLC_EP05_Seasons.zip", ""], _
+    ["EP04", "Cats and Dogs",                       "https://huggingface.co/datasets/aenimaaa/EP04/resolve/main/Sims4_DLC_EP04_Cats_and_Dogs.zip", ""], _
+    ["EP05", "Seasons",                             "https://huggingface.co/datasets/aenimaaa/EP05/resolve/main/Sims4_DLC_EP05_Seasons.zip", ""], _
     ["EP06", "Get Famous",                          "https://huggingface.co/datasets/aenimaaa/EP06/resolve/main/Sims4_DLC_EP06_Get_Famous.zip", ""], _
-    ["EP07", "Island Living",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP07/Sims4_DLC_EP07_Island_Living.zip", ""], _
-    ["EP08", "Discover University",                 "https://github.com/l1ntol/lunia-dlc/releases/download/EP08/Sims4_DLC_EP08_Discover_University.zip", ""], _
-    ["EP09", "Eco Lifestyle",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP09/Sims4_DLC_EP09_Eco_Lifestyle.zip", ""], _
-    ["EP10", "Snowy Escape",                        "https://github.com/l1ntol/lunia-dlc/releases/download/EP10/Sims4_DLC_EP10_Snowy_Escape.zip", ""], _
-    ["EP11", "Cottage Living",                      "https://github.com/l1ntol/lunia-dlc/releases/download/EP11/Sims4_DLC_EP11_Cottage_Living.zip", ""], _
-    ["EP12", "High School Years",                   "https://github.com/l1ntol/lunia-dlc/releases/download/EP12/Sims4_DLC_EP12_High_School_Years.zip", ""], _
-    ["EP13", "Growing Together",                    "https://github.com/l1ntol/lunia-dlc/releases/download/EP13/Sims4_DLC_EP13_Growing_Together.zip", ""], _
-    ["EP14", "Horse Ranch",                         "https://github.com/l1ntol/lunia-dlc/releases/download/EP14/Sims4_DLC_EP14_Horse_Ranch.zip", ""], _
-    ["EP15", "For Rent",                            "https://github.com/l1ntol/lunia-dlc/releases/download/EP15/Sims4_DLC_EP15_For_Rent.zip", ""], _
-    ["EP16", "Lovestruck",                          "https://github.com/l1ntol/lunia-dlc/releases/download/EP16/Sims4_DLC_EP16_Lovestruck.zip", ""], _
-    ["EP17", "Life and Death",                      "https://github.com/l1ntol/lunia-dlc/releases/download/EP17/Sims4_DLC_EP17_Life_and_Death.zip", ""], _
-    ["EP18", "Businesses and Hobbies",              "https://github.com/l1ntol/lunia-dlc/releases/download/EP18/Sims4_DLC_EP18_Businesses_and_Hobbies.zip", ""], _
-    ["EP19", "Enchanted by Nature",                 "https://github.com/l1ntol/lunia-dlc/releases/download/EP19/Sims4_DLC_EP19_Enchanted_by_Nature_Expansion_Pack.zip", ""], _
-    ["EP20", "Adventure Awaits",                    "https://github.com/l1ntol/lunia-dlc/releases/download/EP20/Sims4_DLC_EP20_Adventure_Awaits_Expansion_Pack.zip", ""], _
+    ["EP07", "Island Living",                       "https://huggingface.co/datasets/aenimaaa/EP07/resolve/main/Sims4_DLC_EP07_Island_Living.zip", ""], _
+    ["EP08", "Discover University",                 "https://huggingface.co/datasets/aenimaaa/EP08/resolve/main/Sims4_DLC_EP08_Discover_University.zip", ""], _
+    ["EP09", "Eco Lifestyle",                       "https://huggingface.co/datasets/aenimaaa/EP09/resolve/main/Sims4_DLC_EP09_Eco_Lifestyle.zip", ""], _
+    ["EP10", "Snowy Escape",                        "https://huggingface.co/datasets/aenimaaa/EP10/resolve/main/Sims4_DLC_EP10_Snowy_Escape.zip", ""], _
+    ["EP11", "Cottage Living",                      "https://huggingface.co/datasets/aenimaaa/EP11/resolve/main/Sims4_DLC_EP11_Cottage_Living.zip", ""], _
+    ["EP12", "High School Years",                   "https://huggingface.co/datasets/aenimaaa/EP12/resolve/main/Sims4_DLC_EP12_High_School_Years.zip", ""], _
+    ["EP13", "Growing Together",                    "https://huggingface.co/datasets/aenimaaa/EP13/resolve/main/Sims4_DLC_EP13_Growing_Together.zip", ""], _
+    ["EP14", "Horse Ranch",                         "https://huggingface.co/datasets/aenimaaa/EP14/resolve/main/Sims4_DLC_EP14_Horse_Ranch.zip", ""], _
+    ["EP15", "For Rent",                            "https://huggingface.co/datasets/aenimaaa/EP15/resolve/main/Sims4_DLC_EP15_For_Rent.zip", ""], _
+    ["EP16", "Lovestruck",                          "https://huggingface.co/datasets/aenimaaa/EP16/resolve/main/Sims4_DLC_EP16_Lovestruck.zip", ""], _
+    ["EP17", "Life and Death",                      "https://huggingface.co/datasets/aenimaaa/EP17/resolve/main/Sims4_DLC_EP17_Life_and_Death.zip", ""], _
+    ["EP18", "Businesses and Hobbies",              "https://huggingface.co/datasets/aenimaaa/EP18/resolve/main/Sims4_DLC_EP18_Businesses_and_Hobbies.zip", ""], _
+    ["EP19", "Enchanted by Nature",                 "https://huggingface.co/datasets/aenimaaa/EP19/resolve/main/Sims4_DLC_EP19_Enchanted_by_Nature_Expansion_Pack.zip", ""], _
+    ["EP20", "Adventure Awaits",                    "https://huggingface.co/datasets/aenimaaa/EP20/resolve/main/Sims4_DLC_EP20_Adventure_Awaits_Expansion_Pack.zip", ""], _
     ["GP01", "Outdoor Retreat",                     "https://github.com/l1ntol/lunia-dlc/releases/download/GP01/Sims4_DLC_GP01_Outdoor_Retreat.zip", ""], _
     ["GP02", "Spa Day",                             "https://github.com/l1ntol/lunia-dlc/releases/download/GP02/Sims4_DLC_GP02_Spa_Day.zip", ""], _
     ["GP03", "Dine Out",                            "https://github.com/l1ntol/lunia-dlc/releases/download/GP03/Sims4_DLC_GP03_Dine_Out.zip", ""], _
