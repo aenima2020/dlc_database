@@ -31,13 +31,13 @@ Global $DLCList[][] = [ _
     ["GP10", "Dream Home Decorator",                "https://huggingface.co/datasets/aenimaaa/GP10/resolve/main/Sims4_DLC_GP10_Dream_Home_Decorator.zip", ""], _
     ["GP11", "My Wedding Stories",                  "https://huggingface.co/datasets/aenimaaa/GP11/resolve/main/Sims4_DLC_GP11_My_Wedding_Stories.zip", ""], _
     ["GP12", "Werewolves",                          "https://huggingface.co/datasets/aenimaaa/GP12/resolve/main/Sims4_DLC_GP12_Werewolves.zip", ""], _
-    ["SP01", "Luxury Party Stuff",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP01/Sims4_DLC_SP01_Luxury_Party_Stuff.zip", ""], _
-    ["SP02", "Perfect Patio Stuff",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP02/Sims4_DLC_SP02_Perfect_Patio_Stuff.zip", ""], _
-    ["SP03", "Cool Kitchen Stuff",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP03/Sims4_DLC_SP03_Cool_Kitchen_Stuff.zip", ""], _
-    ["SP04", "Spooky Stuff",                        "https://github.com/l1ntol/lunia-dlc/releases/download/SP04/Sims4_DLC_SP04_Spooky_Stuff.zip", ""], _
-    ["SP05", "Movie Hangout Stuff",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP05/Sims4_DLC_SP05_Movie_Hangout_Stuff.zip", ""], _
-    ["SP06", "Romantic Garden Stuff",               "https://github.com/l1ntol/lunia-dlc/releases/download/SP06/Sims4_DLC_SP06_Romantic_Garden_Stuff.zip", ""], _
-    ["SP07", "Kids Room Stuff",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP07/Sims4_DLC_SP07_Kids_Room_Stuff.zip", ""], _
+    ["SP01", "Luxury Party Stuff",                  "https://huggingface.co/datasets/aenimaaa/SP01/resolve/main/Sims4_DLC_SP01_Luxury_Party_Stuff.zip", ""], _
+    ["SP02", "Perfect Patio Stuff",                 "https://huggingface.co/datasets/aenimaaa/SP02/resolve/main/Sims4_DLC_SP02_Perfect_Patio_Stuff.zip", ""], _
+    ["SP03", "Cool Kitchen Stuff",                  "https://huggingface.co/datasets/aenimaaa/SP03/resolve/main/Sims4_DLC_SP03_Cool_Kitchen_Stuff.zip", ""], _
+    ["SP04", "Spooky Stuff",                        "https://huggingface.co/datasets/aenimaaa/SP04/resolve/main/Sims4_DLC_SP04_Spooky_Stuff.zip", ""], _
+    ["SP05", "Movie Hangout Stuff",                 "https://huggingface.co/datasets/aenimaaa/SP05/resolve/main/Sims4_DLC_SP05_Movie_Hangout_Stuff.zip", ""], _
+    ["SP06", "Romantic Garden Stuff",               "https://huggingface.co/datasets/aenimaaa/SP06/resolve/main/Sims4_DLC_SP06_Romantic_Garden_Stuff.zip", ""], _
+    ["SP07", "Kids Room Stuff",                     "https://huggingface.co/datasets/aenimaaa/SP07/resolve/main/Sims4_DLC_SP07_Kids_Room_Stuff.zip", ""], _
     ["SP08", "Backyard Stuff",                      "https://github.com/l1ntol/lunia-dlc/releases/download/SP08/Sims4_DLC_SP08_Backyard_Stuff.zip", ""], _
     ["SP09", "Vintage Glamour Stuff",               "https://github.com/l1ntol/lunia-dlc/releases/download/SP09/Sims4_DLC_SP09_Vintage_Glamour_Stuff.zip", ""], _
     ["SP10", "Bowling Night Stuff",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP10/Sims4_DLC_SP10_Bowling_Night_Stuff.zip", ""], _
