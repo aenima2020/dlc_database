@@ -28,8 +28,8 @@ Global $DLCList[][] = [ _
     ["GP07", "StrangerVille",                       "https://huggingface.co/datasets/aenimaaa/GP07/resolve/main/Sims4_DLC_GP07_StrangerVille.zip", ""], _
     ["GP08", "Realm of Magic",                      "https://huggingface.co/datasets/aenimaaa/GP08/resolve/main/Sims4_DLC_GP08_Realm_of_Magic.zip", ""], _
     ["GP09", "Star Wars: Journey to Batuu",         "https://huggingface.co/datasets/aenimaaa/GP09/resolve/main/Sims4_DLC_GP09_Star_Wars_Journey_to_Batuu.zip", ""], _
-    ["GP10", "Dream Home Decorator",                "https://github.com/l1ntol/lunia-dlc/releases/download/GP10/Sims4_DLC_GP10_Dream_Home_Decorator.zip", ""], _
-    ["GP11", "My Wedding Stories",                  "https://github.com/l1ntol/lunia-dlc/releases/download/GP11/Sims4_DLC_GP11_My_Wedding_Stories.zip", ""], _
+    ["GP10", "Dream Home Decorator",                "https://huggingface.co/datasets/aenimaaa/GP10/resolve/main/Sims4_DLC_GP10_Dream_Home_Decorator.zip", ""], _
+    ["GP11", "My Wedding Stories",                  "https://huggingface.co/datasets/aenimaaa/GP11/resolve/main/Sims4_DLC_GP11_My_Wedding_Stories.zip", ""], _
     ["GP12", "Werewolves",                          "https://github.com/l1ntol/lunia-dlc/releases/download/GP12/Sims4_DLC_GP12_Werewolves.zip", ""], _
     ["SP01", "Luxury Party Stuff",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP01/Sims4_DLC_SP01_Luxury_Party_Stuff.zip", ""], _
     ["SP02", "Perfect Patio Stuff",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP02/Sims4_DLC_SP02_Perfect_Patio_Stuff.zip", ""], _
