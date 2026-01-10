@@ -19,15 +19,15 @@ Global $DLCList[][] = [ _
     ["EP18", "Businesses and Hobbies",              "https://huggingface.co/datasets/aenimaaa/EP18/resolve/main/Sims4_DLC_EP18_Businesses_and_Hobbies.zip", ""], _
     ["EP19", "Enchanted by Nature",                 "https://huggingface.co/datasets/aenimaaa/EP19/resolve/main/Sims4_DLC_EP19_Enchanted_by_Nature_Expansion_Pack.zip", ""], _
     ["EP20", "Adventure Awaits",                    "https://huggingface.co/datasets/aenimaaa/EP20/resolve/main/Sims4_DLC_EP20_Adventure_Awaits_Expansion_Pack.zip", ""], _
-    ["GP01", "Outdoor Retreat",                     "https://github.com/l1ntol/lunia-dlc/releases/download/GP01/Sims4_DLC_GP01_Outdoor_Retreat.zip", ""], _
-    ["GP02", "Spa Day",                             "https://github.com/l1ntol/lunia-dlc/releases/download/GP02/Sims4_DLC_GP02_Spa_Day.zip", ""], _
-    ["GP03", "Dine Out",                            "https://github.com/l1ntol/lunia-dlc/releases/download/GP03/Sims4_DLC_GP03_Dine_Out.zip", ""], _
-    ["GP04", "Vampires",                            "https://github.com/l1ntol/lunia-dlc/releases/download/GP04/Sims4_DLC_GP04_Vampires.zip", ""], _
-    ["GP05", "Parenthood",                          "https://github.com/l1ntol/lunia-dlc/releases/download/GP05/Sims4_DLC_GP05_Parenthood.zip", ""], _
-    ["GP06", "Jungle Adventure",                    "https://github.com/l1ntol/lunia-dlc/releases/download/GP06/Sims4_DLC_GP06_Jungle_Adventure.zip", ""], _
-    ["GP07", "StrangerVille",                       "https://github.com/l1ntol/lunia-dlc/releases/download/GP07/Sims4_DLC_GP07_StrangerVille.zip", ""], _
-    ["GP08", "Realm of Magic",                      "https://github.com/l1ntol/lunia-dlc/releases/download/GP08/Sims4_DLC_GP08_Realm_of_Magic.zip", ""], _
-    ["GP09", "Star Wars: Journey to Batuu",         "https://github.com/l1ntol/lunia-dlc/releases/download/GP09/Sims4_DLC_GP09_Star_Wars_Journey_to_Batuu.zip", ""], _
+    ["GP01", "Outdoor Retreat",                     "https://huggingface.co/datasets/aenimaaa/GP01/resolve/main/Sims4_DLC_GP01_Outdoor_Retreat.zip", ""], _
+    ["GP02", "Spa Day",                             "https://huggingface.co/datasets/aenimaaa/GP02/resolve/main/Sims4_DLC_GP02_Spa_Day.zip", ""], _
+    ["GP03", "Dine Out",                            "https://huggingface.co/datasets/aenimaaa/GP03/resolve/main/Sims4_DLC_GP03_Dine_Out.zip", ""], _
+    ["GP04", "Vampires",                            "https://huggingface.co/datasets/aenimaaa/GP04/resolve/main/Sims4_DLC_GP04_Vampires.zip", ""], _
+    ["GP05", "Parenthood",                          "https://huggingface.co/datasets/aenimaaa/GP05/resolve/main/Sims4_DLC_GP05_Parenthood.zip", ""], _
+    ["GP06", "Jungle Adventure",                    "https://huggingface.co/datasets/aenimaaa/GP06/resolve/main/Sims4_DLC_GP06_Jungle_Adventure.zip", ""], _
+    ["GP07", "StrangerVille",                       "https://huggingface.co/datasets/aenimaaa/GP07/resolve/main/Sims4_DLC_GP07_StrangerVille.zip", ""], _
+    ["GP08", "Realm of Magic",                      "https://huggingface.co/datasets/aenimaaa/GP08/resolve/main/Sims4_DLC_GP08_Realm_of_Magic.zip", ""], _
+    ["GP09", "Star Wars: Journey to Batuu",         "https://huggingface.co/datasets/aenimaaa/GP09/resolve/main/Sims4_DLC_GP09_Star_Wars_Journey_to_Batuu.zip", ""], _
     ["GP10", "Dream Home Decorator",                "https://github.com/l1ntol/lunia-dlc/releases/download/GP10/Sims4_DLC_GP10_Dream_Home_Decorator.zip", ""], _
     ["GP11", "My Wedding Stories",                  "https://github.com/l1ntol/lunia-dlc/releases/download/GP11/Sims4_DLC_GP11_My_Wedding_Stories.zip", ""], _
     ["GP12", "Werewolves",                          "https://github.com/l1ntol/lunia-dlc/releases/download/GP12/Sims4_DLC_GP12_Werewolves.zip", ""], _
