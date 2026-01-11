@@ -88,22 +88,22 @@ Global $DLCList[][] = [ _
     ["SP57", "Cozy Kitsch Kit",                     "https://huggingface.co/datasets/aenimaaa/SP57/resolve/main/Sims4_DLC_SP57_Cozy_Kitsch_Kit.zip", ""], _
     ["SP58", "Comfy Gamer Kit",                     "https://huggingface.co/datasets/aenimaaa/SP58/resolve/main/Sims4_DLC_SP58_Comfy_Gamer_Kit.zip", ""], _
     ["SP59", "Secret Sanctuary Kit",                "https://huggingface.co/datasets/aenimaaa/SP59/resolve/main/Sims4_DLC_SP59_Secret_Sanctuary_Kit.zip", ""], _
-    ["SP60", "Casanova Cave Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP60/Sims4_DLC_SP60_Casanova_Cave_Kit.zip", ""], _
-    ["SP61", "Refined Living Room Kit",             "https://github.com/l1ntol/lunia-dlc/releases/download/SP61/Sims4_DLC_SP61_Refined_Living_Room_Kit.zip", ""], _
-    ["SP62", "Business Chic Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP62/Sims4_DLC_SP62_Business_Chic_Kit.zip", ""], _
-    ["SP63", "Sleek Bathroom Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP63/Sims4_DLC_SP63_Sleek_Bathroom_Kit.zip", ""], _
-    ["SP64", "Sweet Allure Kit",                    "https://github.com/l1ntol/lunia-dlc/releases/download/SP64/Sims4_DLC_SP64_Sweet_Allure_Kit.zip", ""], _
-    ["SP65", "Restoration Workshop Kit",            "https://github.com/l1ntol/lunia-dlc/releases/download/SP65/Sims4_DLC_SP65_Restoration_Workshop_Kit.zip", ""], _
-    ["SP66", "Golden Years Kit",                    "https://github.com/l1ntol/lunia-dlc/releases/download/SP66/Sims4_DLC_SP66_Golden_Years_Kit.zip", ""], _
-    ["SP67", "Kitchen Clutter Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP67/Sims4_DLC_SP67_Kitchen_Clutter_Kit.zip", ""], _
-    ["SP68", "Spongebob's House Kit",               "https://github.com/l1ntol/lunia-dlc/releases/download/SP68/SP68.zip", ""], _
-    ["SP69", "Autumn Apparel Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP69/Sims4_DLC_SP69_Autumn_Apparel_Kit.zip", ""], _
-    ["SP70", "Spongebob Kid's Room Kit",            "https://github.com/l1ntol/lunia-dlc/releases/download/SP70/SP70.zip", ""], _
-    ["SP71", "Grange Mudroom Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP71/Sims4_DLC_SP71_Grange_Mudroom_Kit.zip", ""], _
-    ["SP72", "Essential Glam Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP72/Sims4_DLC_SP72_Essential_Glam_Kit.zip", ""], _
-    ["SP73", "Modern Retreat Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP73/Sims4_DLC_SP73_Modern_Retreat_Kit.zip", ""], _
-    ["SP74", "Garden to Table Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP74/Sims4_DLC_SP74_Garden_to_Table_Kit.zip", ""], _
-    ["SP81", "Prairie Dreams Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP81/SP81.zip", ""], _
+    ["SP60", "Casanova Cave Kit",                   "https://huggingface.co/datasets/aenimaaa/SP60/resolve/main/Sims4_DLC_SP60_Casanova_Cave_Kit.zip", ""], _
+    ["SP61", "Refined Living Room Kit",             "https://huggingface.co/datasets/aenimaaa/SP61/resolve/main/Sims4_DLC_SP61_Refined_Living_Room_Kit.zip", ""], _
+    ["SP62", "Business Chic Kit",                   "https://huggingface.co/datasets/aenimaaa/SP62/resolve/main/Sims4_DLC_SP62_Business_Chic_Kit.zip", ""], _
+    ["SP63", "Sleek Bathroom Kit",                  "https://huggingface.co/datasets/aenimaaa/SP63/resolve/main/Sims4_DLC_SP63_Sleek_Bathroom_Kit.zip", ""], _
+    ["SP64", "Sweet Allure Kit",                    "https://huggingface.co/datasets/aenimaaa/SP64/resolve/main/Sims4_DLC_SP64_Sweet_Allure_Kit.zip", ""], _
+    ["SP65", "Restoration Workshop Kit",            "https://huggingface.co/datasets/aenimaaa/SP65/resolve/main/Sims4_DLC_SP65_Restoration_Workshop_Kit.zip", ""], _
+    ["SP66", "Golden Years Kit",                    "https://huggingface.co/datasets/aenimaaa/SP66/resolve/main/Sims4_DLC_SP66_Golden_Years_Kit.zip", ""], _
+    ["SP67", "Kitchen Clutter Kit",                 "https://huggingface.co/datasets/aenimaaa/SP67/resolve/main/Sims4_DLC_SP67_Kitchen_Clutter_Kit.zip", ""], _
+    ["SP68", "Spongebob's House Kit",               "https://huggingface.co/datasets/aenimaaa/SP68/resolve/main/Sims4_DLC_SP68_Spongebob_House.zip", ""], _
+    ["SP69", "Autumn Apparel Kit",                  "https://huggingface.co/datasets/aenimaaa/SP69/resolve/main/Sims4_DLC_SP69_Autumn_Apparel_Kit.zip", ""], _
+    ["SP70", "Spongebob Kid's Room Kit",            "https://huggingface.co/datasets/aenimaaa/SP70/resolve/main/Sims4_DLC_SP70_Spongebob_Kids_Room.zip", ""], _
+    ["SP71", "Grange Mudroom Kit",                  "https://huggingface.co/datasets/aenimaaa/SP71/resolve/main/Sims4_DLC_SP71_Grange_Mudroom_Kit.zip", ""], _
+    ["SP72", "Essential Glam Kit",                  "https://huggingface.co/datasets/aenimaaa/SP72/resolve/main/Sims4_DLC_SP72_Essential_Glam_Kit.zip", ""], _
+    ["SP73", "Modern Retreat Kit",                  "https://huggingface.co/datasets/aenimaaa/SP73/resolve/main/Sims4_DLC_SP73_Modern_Retreat_Kit.zip", ""], _
+    ["SP74", "Garden to Table Kit",                 "https://huggingface.co/datasets/aenimaaa/SP74/resolve/main/Sims4_DLC_SP74_Garden_to_Table_Kit.zip", ""], _
+    ["SP81", "Prairie Dreams Kit",                  "https://huggingface.co/datasets/aenimaaa/SP81/resolve/main/Sims4_DLC_SP81_Prairie_Dreams.zip", ""], _
     ["FP01", "Holiday Celebration Pack",            "https://github.com/l1ntol/lunia-dlc/releases/download/FP01/Sims4_DLC_FP01_Holiday_Celebration_Pack.zip", ""] _
 ]
 
