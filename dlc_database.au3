@@ -58,36 +58,36 @@ Global $DLCList[][] = [ _
     ["SP26", "Incheon Arrivals Kit",                "https://huggingface.co/datasets/aenimaaa/SP26/resolve/main/Sims4_DLC_SP26_Incheon_Arrivals_Kit.zip", ""], _
     ["SP28", "Modern Menswear Kit",                 "https://huggingface.co/datasets/aenimaaa/SP28/resolve/main/Sims4_DLC_SP28_Modern_Menswear_Kit.zip", ""], _
     ["SP29", "Blooming Rooms Kit",                  "https://huggingface.co/datasets/aenimaaa/SP29/resolve/main/Sims4_DLC_SP29_Blooming_Rooms_Kit.zip", ""], _
-    ["SP30", "Carnaval Streetwear Kit",             "https://github.com/l1ntol/lunia-dlc/releases/download/SP30/Sims4_DLC_SP30_Carnaval_Streetwear_Kit.zip", ""], _
-    ["SP31", "Decor to the Max Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP31/Sims4_DLC_SP31_Decor_to_the_Max_Kit.zip", ""], _
-    ["SP32", "Moonlight Chic Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP32/Sims4_DLC_SP32_Moonlight_Chic_Kit.zip", ""], _
-    ["SP33", "Little Campers Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP33/Sims4_DLC_SP33_Little_Campers_Kit.zip", ""], _
-    ["SP34", "First Fits Kit",                      "https://github.com/l1ntol/lunia-dlc/releases/download/SP34/Sims4_DLC_SP34_First_Fits_Kit.zip", ""], _
-    ["SP35", "Desert Luxe Kit",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP35/Sims4_DLC_SP35_Desert_Luxe_Kit.zip", ""], _
-    ["SP36", "Pastel Pop Kit",                      "https://github.com/l1ntol/lunia-dlc/releases/download/SP36/Sims4_DLC_SP36_Pastel_Pop_Kit.zip", ""], _
-    ["SP37", "Everyday Clutter Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP37/Sims4_DLC_SP37_Everyday_Clutter_Kit.zip", ""], _
-    ["SP38", "Simtimates Collection Kit",           "https://github.com/l1ntol/lunia-dlc/releases/download/SP38/Sims4_DLC_SP38_Simtimates_Collection_Kit.zip", ""], _
-    ["SP39", "Bathroom Clutter Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP39/Sims4_DLC_SP39_Bathroom_Clutter_Kit.zip", ""], _
-    ["SP40", "Greenhouse Haven Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP40/Sims4_DLC_SP40_Greenhouse_Haven_Kit.zip", ""], _
-    ["SP41", "Basement Treasures Kit",              "https://github.com/l1ntol/lunia-dlc/releases/download/SP41/Sims4_DLC_SP41_Basement_Treasures_Kit.zip", ""], _
-    ["SP42", "Grunge Revival Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP42/Sims4_DLC_SP42_Grunge_Revival_Kit.zip", ""], _
-    ["SP43", "Book Nook Kit",                       "https://github.com/l1ntol/lunia-dlc/releases/download/SP43/Sims4_DLC_SP43_Book_Nook_Kit.zip", ""], _
-    ["SP44", "Poolside Splash Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP44/Sims4_DLC_SP44_Poolside_Splash_Kit.zip", ""], _
-    ["SP45", "Modern Luxe Kit",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP45/Sims4_DLC_SP45_Modern_Luxe_Kit.zip", ""], _
-    ["SP46", "Home Chef Hustle Stuff Pack",         "https://github.com/l1ntol/lunia-dlc/releases/download/SP46/Sims4_DLC_SP46_Home_Chef_Hustle_Stuff_Pack.zip", ""], _
-    ["SP47", "Castle Estate Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP47/Sims4_DLC_SP47_Castle_Estate_Kit.zip", ""], _
-    ["SP48", "Goth Galore Kit",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP48/Sims4_DLC_SP48_Goth_Galore_Kit.zip", ""], _
-    ["SP49", "Crystal Creations Stuff Pack",        "https://github.com/l1ntol/lunia-dlc/releases/download/SP49/Sims4_DLC_SP49_Crystal_Creations_Stuff_Pack.zip", ""], _
-    ["SP50", "Urban Homage Kit",                    "https://github.com/l1ntol/lunia-dlc/releases/download/SP50/Sims4_DLC_SP50_Urban_Homage_Kit.zip", ""], _
-    ["SP51", "Party Essentials Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP51/Sims4_DLC_SP51_Party_Essentials_Kit.zip", ""], _
-    ["SP52", "Riviera Retreat Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP52/Sims4_DLC_SP52_Riviera_Retreat_Kit.zip", ""], _
-    ["SP53", "Cozy Bistro Kit",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP53/Sims4_DLC_SP53_Cozy_Bistro_Kit.zip", ""], _
-    ["SP54", "Artist Studio Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP54/Sims4_DLC_SP54_Artist_Studio_Kit.zip", ""], _
-    ["SP55", "Storybook Nursery Kit",               "https://github.com/l1ntol/lunia-dlc/releases/download/SP55/Sims4_DLC_SP55_Storybook_Nursery_Kit.zip", ""], _
-    ["SP56", "Sweet Slumber Party Kit",             "https://github.com/l1ntol/lunia-dlc/releases/download/SP56/Sims4_DLC_SP56_Sweet_Slumber_Party_Kit.zip", ""], _
-    ["SP57", "Cozy Kitsch Kit",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP57/Sims4_DLC_SP57_Cozy_Kitsch_Kit.zip", ""], _
-    ["SP58", "Comfy Gamer Kit",                     "https://github.com/l1ntol/lunia-dlc/releases/download/SP58/Sims4_DLC_SP58_Comfy_Gamer_Kit.zip", ""], _
-    ["SP59", "Secret Sanctuary Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP59/Sims4_DLC_SP59_Secret_Sanctuary_Kit.zip", ""], _
+    ["SP30", "Carnaval Streetwear Kit",             "https://huggingface.co/datasets/aenimaaa/SP30/resolve/main/Sims4_DLC_SP30_Carnaval_Streetwear_Kit.zip", ""], _
+    ["SP31", "Decor to the Max Kit",                "https://huggingface.co/datasets/aenimaaa/SP31/resolve/main/Sims4_DLC_SP31_Decor_to_the_Max_Kit.zip", ""], _
+    ["SP32", "Moonlight Chic Kit",                  "https://huggingface.co/datasets/aenimaaa/SP32/resolve/main/Sims4_DLC_SP32_Moonlight_Chic_Kit.zip", ""], _
+    ["SP33", "Little Campers Kit",                  "https://huggingface.co/datasets/aenimaaa/SP33/resolve/main/Sims4_DLC_SP33_Little_Campers_Kit.zip", ""], _
+    ["SP34", "First Fits Kit",                      "https://huggingface.co/datasets/aenimaaa/SP34/resolve/main/Sims4_DLC_SP34_First_Fits_Kit.zip", ""], _
+    ["SP35", "Desert Luxe Kit",                     "https://huggingface.co/datasets/aenimaaa/SP35/resolve/main/Sims4_DLC_SP35_Desert_Luxe_Kit.zip", ""], _
+    ["SP36", "Pastel Pop Kit",                      "https://huggingface.co/datasets/aenimaaa/SP36/resolve/main/Sims4_DLC_SP36_Pastel_Pop_Kit.zip", ""], _
+    ["SP37", "Everyday Clutter Kit",                "https://huggingface.co/datasets/aenimaaa/SP37/resolve/main/Sims4_DLC_SP37_Everyday_Clutter_Kit.zip", ""], _
+    ["SP38", "Simtimates Collection Kit",           "https://huggingface.co/datasets/aenimaaa/SP38/resolve/main/Sims4_DLC_SP38_Simtimates_Collection_Kit.zip", ""], _
+    ["SP39", "Bathroom Clutter Kit",                "https://huggingface.co/datasets/aenimaaa/SP39/resolve/main/Sims4_DLC_SP39_Bathroom_Clutter_Kit.zip", ""], _
+    ["SP40", "Greenhouse Haven Kit",                "https://huggingface.co/datasets/aenimaaa/SP40/resolve/main/Sims4_DLC_SP40_Greenhouse_Haven_Kit.zip", ""], _
+    ["SP41", "Basement Treasures Kit",              "https://huggingface.co/datasets/aenimaaa/SP41/resolve/main/Sims4_DLC_SP41_Basement_Treasures_Kit.zip", ""], _
+    ["SP42", "Grunge Revival Kit",                  "https://huggingface.co/datasets/aenimaaa/SP42/resolve/main/Sims4_DLC_SP42_Grunge_Revival_Kit.zip", ""], _
+    ["SP43", "Book Nook Kit",                       "https://huggingface.co/datasets/aenimaaa/SP43/resolve/main/Sims4_DLC_SP43_Book_Nook_Kit.zip", ""], _
+    ["SP44", "Poolside Splash Kit",                 "https://huggingface.co/datasets/aenimaaa/SP44/resolve/main/Sims4_DLC_SP44_Poolside_Splash_Kit.zip", ""], _
+    ["SP45", "Modern Luxe Kit",                     "https://huggingface.co/datasets/aenimaaa/SP45/resolve/main/Sims4_DLC_SP45_Modern_Luxe_Kit.zip", ""], _
+    ["SP46", "Home Chef Hustle Stuff Pack",         "https://huggingface.co/datasets/aenimaaa/SP46/resolve/main/Sims4_DLC_SP46_Home_Chef_Hustle_Stuff_Pack.zip", ""], _
+    ["SP47", "Castle Estate Kit",                   "https://huggingface.co/datasets/aenimaaa/SP47/resolve/main/Sims4_DLC_SP47_Castle_Estate_Kit.zip", ""], _
+    ["SP48", "Goth Galore Kit",                     "https://huggingface.co/datasets/aenimaaa/SP48/resolve/main/Sims4_DLC_SP48_Goth_Galore_Kit.zip", ""], _
+    ["SP49", "Crystal Creations Stuff Pack",        "https://huggingface.co/datasets/aenimaaa/SP49/resolve/main/Sims4_DLC_SP49_Crystal_Creations_Stuff_Pack.zip", ""], _
+    ["SP50", "Urban Homage Kit",                    "https://huggingface.co/datasets/aenimaaa/SP50/resolve/main/Sims4_DLC_SP50_Urban_Homage_Kit.zip", ""], _
+    ["SP51", "Party Essentials Kit",                "https://huggingface.co/datasets/aenimaaa/SP51/resolve/main/Sims4_DLC_SP51_Party_Essentials_Kit.zip", ""], _
+    ["SP52", "Riviera Retreat Kit",                 "https://huggingface.co/datasets/aenimaaa/SP52/resolve/main/Sims4_DLC_SP52_Riviera_Retreat_Kit.zip", ""], _
+    ["SP53", "Cozy Bistro Kit",                     "https://huggingface.co/datasets/aenimaaa/SP53/resolve/main/Sims4_DLC_SP53_Cozy_Bistro_Kit.zip", ""], _
+    ["SP54", "Artist Studio Kit",                   "https://huggingface.co/datasets/aenimaaa/SP54/resolve/main/Sims4_DLC_SP54_Artist_Studio_Kit.zip", ""], _
+    ["SP55", "Storybook Nursery Kit",               "https://huggingface.co/datasets/aenimaaa/SP55/resolve/main/Sims4_DLC_SP55_Storybook_Nursery_Kit.zip", ""], _
+    ["SP56", "Sweet Slumber Party Kit",             "https://huggingface.co/datasets/aenimaaa/SP56/resolve/main/Sims4_DLC_SP56_Sweet_Slumber_Party_Kit.zip", ""], _
+    ["SP57", "Cozy Kitsch Kit",                     "https://huggingface.co/datasets/aenimaaa/SP57/resolve/main/Sims4_DLC_SP57_Cozy_Kitsch_Kit.zip", ""], _
+    ["SP58", "Comfy Gamer Kit",                     "https://huggingface.co/datasets/aenimaaa/SP58/resolve/main/Sims4_DLC_SP58_Comfy_Gamer_Kit.zip", ""], _
+    ["SP59", "Secret Sanctuary Kit",                "https://huggingface.co/datasets/aenimaaa/SP59/resolve/main/Sims4_DLC_SP59_Secret_Sanctuary_Kit.zip", ""], _
     ["SP60", "Casanova Cave Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP60/Sims4_DLC_SP60_Casanova_Cave_Kit.zip", ""], _
     ["SP61", "Refined Living Room Kit",             "https://github.com/l1ntol/lunia-dlc/releases/download/SP61/Sims4_DLC_SP61_Refined_Living_Room_Kit.zip", ""], _
     ["SP62", "Business Chic Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP62/Sims4_DLC_SP62_Business_Chic_Kit.zip", ""], _
