@@ -38,26 +38,26 @@ Global $DLCList[][] = [ _
     ["SP05", "Movie Hangout Stuff",                 "https://huggingface.co/datasets/aenimaaa/SP05/resolve/main/Sims4_DLC_SP05_Movie_Hangout_Stuff.zip", ""], _
     ["SP06", "Romantic Garden Stuff",               "https://huggingface.co/datasets/aenimaaa/SP06/resolve/main/Sims4_DLC_SP06_Romantic_Garden_Stuff.zip", ""], _
     ["SP07", "Kids Room Stuff",                     "https://huggingface.co/datasets/aenimaaa/SP07/resolve/main/Sims4_DLC_SP07_Kids_Room_Stuff.zip", ""], _
-    ["SP08", "Backyard Stuff",                      "https://github.com/l1ntol/lunia-dlc/releases/download/SP08/Sims4_DLC_SP08_Backyard_Stuff.zip", ""], _
-    ["SP09", "Vintage Glamour Stuff",               "https://github.com/l1ntol/lunia-dlc/releases/download/SP09/Sims4_DLC_SP09_Vintage_Glamour_Stuff.zip", ""], _
-    ["SP10", "Bowling Night Stuff",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP10/Sims4_DLC_SP10_Bowling_Night_Stuff.zip", ""], _
-    ["SP11", "Fitness Stuff",                       "https://github.com/l1ntol/lunia-dlc/releases/download/SP11/Sims4_DLC_SP11_Fitness_Stuff.zip", ""], _
-    ["SP12", "Toddler Stuff",                       "https://github.com/l1ntol/lunia-dlc/releases/download/SP12/Sims4_DLC_SP12_Toddler_Stuff.zip", ""], _
-    ["SP13", "Laundry Day Stuff",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP13/Sims4_DLC_SP13_Laundry_Day_Stuff.zip", ""], _
-    ["SP14", "My First Pet Stuff",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP14/Sims4_DLC_SP14_My_First_Pet_Stuff.zip", ""], _
-    ["SP15", "Moschino Stuff",                      "https://github.com/l1ntol/lunia-dlc/releases/download/SP15/Sims4_DLC_SP15_Moschino_Stuff.zip", ""], _
-    ["SP16", "Tiny Living Stuff",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP16/Sims4_DLC_SP16_Tiny_Living_Stuff_Pack.zip", ""], _
-    ["SP17", "Nifty Knitting",                      "https://github.com/l1ntol/lunia-dlc/releases/download/SP17/Sims4_DLC_SP17_Nifty_Knitting.zip", ""], _
-    ["SP18", "Paranormal Stuff",                    "https://github.com/l1ntol/lunia-dlc/releases/download/SP18/Sims4_DLC_SP18_Paranormal_Stuff_Pack.zip", ""], _
-    ["SP20", "Throwback Fit Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP20/Sims4_DLC_SP20_Throwback_Fit_Kit.zip", ""], _
-    ["SP21", "Country Kitchen Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP21/Sims4_DLC_SP21_Country_Kitchen_Kit.zip", ""], _
-    ["SP22", "Bust the Dust Kit",                   "https://github.com/l1ntol/lunia-dlc/releases/download/SP22/Sims4_DLC_SP22_Bust_the_Dust_Kit.zip", ""], _
-    ["SP23", "Courtyard Oasis Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP23/Sims4_DLC_SP23_Courtyard_Oasis_Kit.zip", ""], _
-    ["SP24", "Fashion Street Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP24/Sims4_DLC_SP24_Fashion_Street_Kit.zip", ""], _
-    ["SP25", "Industrial Loft Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP25/Sims4_DLC_SP25_Industrial_Loft_Kit.zip", ""], _
-    ["SP26", "Incheon Arrivals Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP26/Sims4_DLC_SP26_Incheon_Arrivals_Kit.zip", ""], _
-    ["SP28", "Modern Menswear Kit",                 "https://github.com/l1ntol/lunia-dlc/releases/download/SP28/Sims4_DLC_SP28_Modern_Menswear_Kit.zip", ""], _
-    ["SP29", "Blooming Rooms Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP29/Sims4_DLC_SP29_Blooming_Rooms_Kit.zip", ""], _
+    ["SP08", "Backyard Stuff",                      "https://huggingface.co/datasets/aenimaaa/SP08/resolve/main/Sims4_DLC_SP08_Backyard_Stuff.zip", ""], _
+    ["SP09", "Vintage Glamour Stuff",               "https://huggingface.co/datasets/aenimaaa/SP09/resolve/main/Sims4_DLC_SP09_Vintage_Glamour_Stuff.zip", ""], _
+    ["SP10", "Bowling Night Stuff",                 "https://huggingface.co/datasets/aenimaaa/SP10/resolve/main/Sims4_DLC_SP10_Bowling_Night_Stuff.zip", ""], _
+    ["SP11", "Fitness Stuff",                       "https://huggingface.co/datasets/aenimaaa/SP11/resolve/main/Sims4_DLC_SP11_Fitness_Stuff.zip", ""], _
+    ["SP12", "Toddler Stuff",                       "https://huggingface.co/datasets/aenimaaa/SP12/resolve/main/Sims4_DLC_SP12_Toddler_Stuff.zip", ""], _
+    ["SP13", "Laundry Day Stuff",                   "https://huggingface.co/datasets/aenimaaa/SP13/resolve/main/Sims4_DLC_SP13_Laundry_Day_Stuff.zip", ""], _
+    ["SP14", "My First Pet Stuff",                  "https://huggingface.co/datasets/aenimaaa/SP14/resolve/main/Sims4_DLC_SP14_My_First_Pet_Stuff.zip", ""], _
+    ["SP15", "Moschino Stuff",                      "https://huggingface.co/datasets/aenimaaa/SP15/resolve/main/Sims4_DLC_SP15_Moschino_Stuff.zip", ""], _
+    ["SP16", "Tiny Living Stuff",                   "https://huggingface.co/datasets/aenimaaa/SP16/resolve/main/Sims4_DLC_SP16_Tiny_Living_Stuff_Pack.zip", ""], _
+    ["SP17", "Nifty Knitting",                      "https://huggingface.co/datasets/aenimaaa/SP17/resolve/main/Sims4_DLC_SP17_Nifty_Knitting.zip", ""], _
+    ["SP18", "Paranormal Stuff",                    "https://huggingface.co/datasets/aenimaaa/SP18/resolve/main/Sims4_DLC_SP18_Paranormal_Stuff_Pack.zip", ""], _
+    ["SP20", "Throwback Fit Kit",                   "https://huggingface.co/datasets/aenimaaa/SP20/resolve/main/Sims4_DLC_SP20_Throwback_Fit_Kit.zip", ""], _
+    ["SP21", "Country Kitchen Kit",                 "https://huggingface.co/datasets/aenimaaa/SP21/resolve/main/Sims4_DLC_SP21_Country_Kitchen_Kit.zip", ""], _
+    ["SP22", "Bust the Dust Kit",                   "https://huggingface.co/datasets/aenimaaa/SP22/resolve/main/Sims4_DLC_SP22_Bust_the_Dust_Kit.zip", ""], _
+    ["SP23", "Courtyard Oasis Kit",                 "https://huggingface.co/datasets/aenimaaa/SP23/resolve/main/Sims4_DLC_SP23_Courtyard_Oasis_Kit.zip", ""], _
+    ["SP24", "Fashion Street Kit",                  "https://huggingface.co/datasets/aenimaaa/SP24/resolve/main/Sims4_DLC_SP24_Fashion_Street_Kit.zip", ""], _
+    ["SP25", "Industrial Loft Kit",                 "https://huggingface.co/datasets/aenimaaa/SP25/resolve/main/Sims4_DLC_SP25_Industrial_Loft_Kit.zip", ""], _
+    ["SP26", "Incheon Arrivals Kit",                "https://huggingface.co/datasets/aenimaaa/SP26/resolve/main/Sims4_DLC_SP26_Incheon_Arrivals_Kit.zip", ""], _
+    ["SP28", "Modern Menswear Kit",                 "https://huggingface.co/datasets/aenimaaa/SP28/resolve/main/Sims4_DLC_SP28_Modern_Menswear_Kit.zip", ""], _
+    ["SP29", "Blooming Rooms Kit",                  "https://huggingface.co/datasets/aenimaaa/SP29/resolve/main/Sims4_DLC_SP29_Blooming_Rooms_Kit.zip", ""], _
     ["SP30", "Carnaval Streetwear Kit",             "https://github.com/l1ntol/lunia-dlc/releases/download/SP30/Sims4_DLC_SP30_Carnaval_Streetwear_Kit.zip", ""], _
     ["SP31", "Decor to the Max Kit",                "https://github.com/l1ntol/lunia-dlc/releases/download/SP31/Sims4_DLC_SP31_Decor_to_the_Max_Kit.zip", ""], _
     ["SP32", "Moonlight Chic Kit",                  "https://github.com/l1ntol/lunia-dlc/releases/download/SP32/Sims4_DLC_SP32_Moonlight_Chic_Kit.zip", ""], _
