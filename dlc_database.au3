@@ -19,6 +19,7 @@ Global $DLCList[][] = [ _
     ["EP18", "Businesses and Hobbies", "https://huggingface.co/datasets/aenimaaa/EP18/resolve/main/Sims4_DLC_EP18_Businesses_and_Hobbies.zip", "", "A6F7BB72"], _
     ["EP19", "Enchanted by Nature", "https://huggingface.co/datasets/aenimaaa/EP19/resolve/main/Sims4_DLC_EP19_Enchanted_by_Nature_Expansion_Pack.zip", "", "B76431BF"], _
     ["EP20", "Adventure Awaits", "https://huggingface.co/datasets/aenimaaa/EP20/resolve/main/Sims4_DLC_EP20_Adventure_Awaits_Expansion_Pack.zip", "", "7872B42E"], _
+    ["EP21", "Royalty & Legacy Grand Bundle", "https://huggingface.co/datasets/aenimaaa/EP21/resolve/main/%5BEP21%5D%20Royalty%20%26%20Legacy%20Grand%20Bundle.zip", "", "4DE154B8"], _
     ["GP01", "Outdoor Retreat", "https://huggingface.co/datasets/aenimaaa/GP01/resolve/main/Sims4_DLC_GP01_Outdoor_Retreat.zip", "", "F21CE252"], _
     ["GP02", "Spa Day", "https://huggingface.co/datasets/aenimaaa/GP02/resolve/main/Sims4_DLC_GP02_Spa_Day.zip", "", "61ED40EE"], _
     ["GP03", "Dine Out", "https://huggingface.co/datasets/aenimaaa/GP03/resolve/main/Sims4_DLC_GP03_Dine_Out.zip", "", "4DFD4949"], _
