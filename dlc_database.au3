@@ -107,7 +107,7 @@ Global $DLCList[][] = [ _
     ["SP76", "Silver Screen Style Kit", "https://huggingface.co/datasets/aenimaaa/SP76/resolve/main/%5BSP76%5D%20Silver%20Screen%20Style%20Kit.zip", "", "441EE08B"], _
     ["SP77", "Tea Time Solarium Kit", "https://huggingface.co/datasets/aenimaaa/SP77/resolve/main/%5BSP77%5D%20Tea%20Time%20Solarium%20Kit.zip", "", "166CBFEB"], _
     ["SP81", "Prairie Dreams Kit", "https://huggingface.co/datasets/aenimaaa/SP81/resolve/main/Sims4_DLC_SP81_Prairie_Dreams.zip", "", "5F6D5DED"], _
-    ["FP01", "Holiday Celebration Pack", "https://github.com/l1ntol/lunia-dlc/releases/download/FP01/Sims4_DLC_FP01_Holiday_Celebration_Pack.zip", "", "FC84BF04"] _
+    ["FP01", "Holiday Celebration Pack", "https://huggingface.co/datasets/aenimaaa/FP01/resolve/main/Sims4_DLC_FP01_Holiday_Celebration_Pack.zip", "", "FC84BF04"] _
 ]
 
 Global $TotalDLC = UBound($DLCList)
