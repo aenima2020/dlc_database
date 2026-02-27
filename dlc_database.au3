@@ -104,9 +104,11 @@ Global $DLCList[][] = [ _
     ["SP72", "Essential Glam Kit", "https://huggingface.co/datasets/aenimaaa/SP72/resolve/main/Sims4_DLC_SP72_Essential_Glam_Kit.zip", "", "1BCE8300"], _
     ["SP73", "Modern Retreat Kit", "https://huggingface.co/datasets/aenimaaa/SP73/resolve/main/Sims4_DLC_SP73_Modern_Retreat_Kit.zip", "", "47D3D357"], _
     ["SP74", "Garden to Table Kit", "https://huggingface.co/datasets/aenimaaa/SP74/resolve/main/Sims4_DLC_SP74_Garden_to_Table_Kit.zip", "", "25EE40BB"], _
+    ["SP75", "Wonderland Playroom Kit", "https://huggingface.co/datasets/aenimaaa/SP75/resolve/main/%5BSP75%5D%20Wonderland%20Playroom%20Kit.zip", "", "1A526D69"], _
     ["SP76", "Silver Screen Style Kit", "https://huggingface.co/datasets/aenimaaa/SP76/resolve/main/%5BSP76%5D%20Silver%20Screen%20Style%20Kit.zip", "", "441EE08B"], _
     ["SP77", "Tea Time Solarium Kit", "https://huggingface.co/datasets/aenimaaa/SP77/resolve/main/%5BSP77%5D%20Tea%20Time%20Solarium%20Kit.zip", "", "166CBFEB"], _
     ["SP81", "Prairie Dreams Kit", "https://huggingface.co/datasets/aenimaaa/SP81/resolve/main/Sims4_DLC_SP81_Prairie_Dreams.zip", "", "5F6D5DED"], _
+    ["SP82", "Yard Charm Kit", "https://huggingface.co/datasets/aenimaaa/SP82/resolve/main/%5BSP82%5D%20Yard%20Charm%20Kit.zip", "", "FF8C6172"], _
     ["FP01", "Holiday Celebration Pack", "https://huggingface.co/datasets/aenimaaa/FP01/resolve/main/Sims4_DLC_FP01_Holiday_Celebration_Pack.zip", "", "FC84BF04"] _
 ]
 
